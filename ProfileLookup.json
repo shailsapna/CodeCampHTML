@@ -1,0 +1,27 @@
+/* for(var contactField in contacts[i]){
+    alert(contacts[i].firstName + " dhfjg "+i+"" +name)
+  if(name==contacts[i].firstName && contactField==prop){
+    return contacts[i][contactField];
+    break;
+  }
+  else if(name!=contacts[i].firstName){
+    noContact=true
+  }
+  else if(contactField!=prop){
+    noProp=true
+  }
+  }*/
+  
+  
+  
+  /*if(noContact){
+  noContact=false;
+  return "No such contact";
+}
+//alert("hi "+noProp);
+if(noProp){
+  
+  alert("hi")
+  noProp=false
+  return "No such property";
+}*/
